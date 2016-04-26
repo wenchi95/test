@@ -10,7 +10,7 @@
 
 @interface ViewController ()
 
-@end吃的
+@end
 
 @implementation ViewController
 
